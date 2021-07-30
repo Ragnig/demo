@@ -1,2 +1,2 @@
-s is my 1st line in git
-
+s is My 1st line in git
+Adding
